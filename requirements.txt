@@ -1,6 +1,5 @@
-
-face_recognition
 streamlit
+face_recognition
 xlrd
 xlwt
 xlutils.copy
