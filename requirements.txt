@@ -1,5 +1,4 @@
-streamlit-1.39.0
 face_recognition
-xlrd
-xlwt
-xlutils.copy
+numpy
+sqlite3
+cv2
