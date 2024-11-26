@@ -1,6 +1,6 @@
 face_recognition==1.3.0
 cmake==3.30.2
-numpy>=1.26.0
+numpy==1.26.0
 opencv-python==4.10.0.84
 Pillow==11.0.0
 streamlit==1.18.0  # Or any version of streamlit that allows Pillow 11.0.0
