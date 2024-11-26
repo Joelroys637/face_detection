@@ -1,6 +1,7 @@
 streamlit
 face-recognition
 dlib-bin
+dlib==19.24.6
 opencv-python-headless
 numpy>=1.19.3
 Pillow
