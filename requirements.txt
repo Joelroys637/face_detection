@@ -1,6 +1,5 @@
---upgrade
-mediapipe==0.10.0
+streamlit==1.18.0
+mediapipe==0.10.0  # Alternative to dlib
 numpy==1.26.0
 opencv-python==4.10.0.84
 Pillow==11.0.0
-streamlit==1.18.0
